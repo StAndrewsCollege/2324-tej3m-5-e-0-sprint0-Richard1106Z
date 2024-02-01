@@ -1,12 +1,10 @@
 # Sprint 0 - Paper tower
 
-For our first sprint we will be practicing the process of design, and submission of sprints using Github.
+This is our first sprint and we will be practicing the process of design, and submission of sprints using Github.
 
-You will document and submit your design process in this GitHub repository. Your design process will involve all of the stages that you will show in each stage of our RoboCup project, but for this first sprint we will be working without technology.
+This repository documented anded included all of my design process and stages on achieving my goal.
 
 ## Goal
-
-For your roboCup sprints you will be setting your own goals that can be completed within a given time (usually two weeks). For our first sprint your goal will be given to you and will be completed in one week.
 
 `Create a design for the tallest possible tower using a single sheet of plain printer paper`
 
@@ -20,33 +18,34 @@ For your roboCup sprints you will be setting your own goals that can be complete
 - Standard paper weight
 - sheet size 8.5x11 inches (letter)
 
-You will submit the instructions and diagrams that would allow another to make your designed tower, 
-
 ## Process
 
-You will follow the steps outlined below (for both this sprint and those for our RoboCup design).
+  1. Cut the paper into 4 pieces (vertial cuts)
+  2. Cut a gap on each piece
+  3. Connet the pieces with the gap
 
 ### Research
 
-
-You will research and document technical resources that you believe will help you succeed at the sprint.
+I get my idea from my good friend Mr. Brandon Chow and Mr. Thomas Zaccak who used the same method as mine. However, my result is comparactively way better than theirs for the result that mine is taller and last longer. 
 
 ### Ideation
 
-You will create quick sketches or descriptions of your planned design
+I didn't my design at all for this activity because I'm too smart.
 
 ### Prototyping
 
-You will make a quick and simple test of your ideas, making something that is built and tested as quickly as possible.
+NONE
 
 ### Testing and Critique
 
-You will evaluate your prototype and document your thinking, what you have learned and how you will improve your design.
+100/100. My design is so perfect that Mr. Prezens even give me a 1000/10. But the only flaw of it would be the lack of colors. I should put more color on my paper tower. 
 
 ### Final design
 
-You will document your final design idea in detail, with enough technical detail for another engineer to recreate your work
+This is my design: ![adae8cf676f22c0780fbc527b2af85f](https://github.com/StAndrewsCollege/2324-tej3m-5-e-0-sprint0-Richard1106Z/assets/157030871/6b8ce7b0-c5a4-47cc-8ecd-7884fc327c0d)
+
+This is its size: ![fbe70300d4f38f3ed964706e42809db](https://github.com/StAndrewsCollege/2324-tej3m-5-e-0-sprint0-Richard1106Z/assets/157030871/9eb92aef-0fac-43de-8871-6affc0c33b90)
 
 ### Conclusion
 
-You will make a brief comment on the success of your design and what next steps others might build on your work.
+#I'M A GENIUSSSSSSSSSSSSSSSS
